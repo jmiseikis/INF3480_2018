@@ -1,7 +1,7 @@
 # INF3480 ROS Lecture (Spring 2018)
 ## University of Oslo - Justinas Mišeikis
 
-This is the tutorial of live coding shown during the INF3480/4380 lectures in Robot Operating System (ROS) in Spring 2018 semester. The tutorial is based on ROS Kinetic running on Ubuntu 16.04. You will need some understanding of using Linux, specifically Ubuntu, and coding knowledge in Python.
+This is the tutorial for the practical coding part of the INF3480/4380 lectures in Robot Operating System (ROS) in Spring 2018 semester. The tutorial is based on ROS Kinetic running on Ubuntu 16.04. You will need some understanding of using Linux, specifically Ubuntu, and coding knowledge in Python.
 
 If you are a student at University of Oslo and enrolled for the course, you can follow the instructions during the lecture or try it after. It is highly recommended to get hands-on experience. We have our own ROS virtual machine that you can use. The instructions on how to connect will be given separately.
 
