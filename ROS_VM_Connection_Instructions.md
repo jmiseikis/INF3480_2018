@@ -13,7 +13,7 @@ You can download VM Ware Horizon client here: https://my.vmware.com/web/vmware/i
 
 You can use browser-based web client. Just navigate to https://vdi-apcon-prod.uio.no/ (redirect: http://ros.ifi.uio.no) and login with your university credentials. It is a test-setup and some issues, especially with login can occurr.
 
-# Screenlock
+## Screenlock
 
 If the screen is locked, just login again using your university password.
 
