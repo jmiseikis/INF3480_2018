@@ -1,4 +1,5 @@
 # How to connect to IFI Drift-supported ROS Virtual Machine
+## Semester: Spring 2018
 
 Drift has just set up virtual machines running Ubuntu 16.04 and ROS Kinetic for the participants if INF3480/4380 course. **You can access them only if you are officially enrolled for the course!**
 
