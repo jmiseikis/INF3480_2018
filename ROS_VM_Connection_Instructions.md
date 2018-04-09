@@ -17,6 +17,6 @@ You can use browser-based web client. Just navigate to https://vdi-apcon-prod.ui
 
 If the screen is locked, just login again using your university password.
 
-## !!!IMPORTANT!!! - Power off and virtual machine state - Make Backups of your catkin workspace
+## !!!IMPORTANT!!! - Power off and virtual machine state - Make Backups of your Catkin Workspace
 
 Due to security risks the administration rights are not given, so "sudo" commands will not work. **Furthermore, the state of the virtual machine after shutting down or connection breaking might not be saved!** So it's very important for you to make backups of your work before ending the session! **The best option is to make backup of your whole catkin workspace**. We recommend to use git, but just transferring the whole catkin workspace to your own computer is good enough as well.
