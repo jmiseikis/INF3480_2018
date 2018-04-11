@@ -9,7 +9,7 @@ Regular client (recommended) - Drift is working on distributing the VMware Horiz
 
 You can download VM Ware Horizon client here: https://my.vmware.com/web/vmware/info?slug=desktop_end_user_computing/vmware_horizon_clients/4_0
 
-## Option 2 - Web Interface
+## Option 2 - Web Interface (NOT recommended)
 
 You can use browser-based web client. Just navigate to https://vdi-apcon-prod.uio.no/ (redirect: http://ros.ifi.uio.no) and login with your university credentials. It is a test-setup and some issues, especially with login can occurr.
 
