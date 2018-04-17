@@ -187,4 +187,15 @@ roslaunch inf3480 start_publisher.launch
 
 Here you go, all the processes are running the same way as before, but now we only need one line in one Terminal window to start our program.
 
+Let's check if the messages are published in the same way as before. In the new terminal write:
+```
+rostopic echo /coords
+```
+
+### Bonus task - topic name
+
+Check the code of the python script `coords_publisher.py` see the difference in topic name when you use the line with `/coords` or `coords` as the topic name. What changes?
+
+### We're done for today! :)
+
 Well done! This is the end of this part of the tutorial and we will continue the introduction to libraries like MoveIt! next week as well as coding a more complex system.
