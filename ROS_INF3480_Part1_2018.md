@@ -103,8 +103,9 @@ import rospy
 from geometry_msgs.msg import Point
 
 def talker():
-    pub = rospy.Publisher('coords', Point, queue_size=10)
-    rospy.init_node('coords_publisher', anonymous=True)
+    pub = rospy.Publisher('/coords', Point, queue_size=10)
+    #pub = rospy.Publisher('coords', Point, queue_size=10) <- What would be the difference when using launch file?
+    rospy.init_node('coords_publisher', anonymous=True)
     rate = rospy.Rate(10) # 10hz
     position = Point()
     position.x = 10
