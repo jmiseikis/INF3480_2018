@@ -3,6 +3,8 @@
 
 Drift has just set up virtual machines running Ubuntu 16.04 and ROS Kinetic for the participants if INF3480/4380 course. **You can access them only if you are officially enrolled for the course!**
 
+Please note that it's a brand new system and this year we are using it for the first time. If you encounter anny issues with connecting to the system, please contact drift@ifi.uio.no However, any questions related to assignment, using Ubuntu and ROS should be directed to INF3480/4380 Teaching Assistants.
+
 ## Option 1 - Regular Client (Recommended)
 
 Regular client (recommended) - Drift is working on distributing the VMware Horizon client to our RHEL client machines, but for now I can install it on individual machines: Add server: `vdi-apcon-prod.uio.no` Then you can login using your university credentials.
