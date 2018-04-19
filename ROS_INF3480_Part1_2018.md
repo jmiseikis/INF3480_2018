@@ -8,7 +8,7 @@ If you are a student at University of Oslo and enrolled for the course, you can 
 ## Part A - ROS Lecture 1
 
 In this part we will learn the following:
-- How to setup ROS envirnoment
+- How to setup ROS environment
 - How to build packages using `catkin_make`
 - How to create your own ROS package
 - How to write your own ROS node in Python
