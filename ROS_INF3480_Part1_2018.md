@@ -1,4 +1,4 @@
-# INF3480 ROS Lecture (Spring 2018)
+# INF3480 ROS Lecture Part 1 (Spring 2018)
 ## University of Oslo - Justinas Mišeikis
 
 This is the tutorial for the practical coding part of the INF3480/4380 lectures in Robot Operating System (ROS) in Spring 2018 semester. The tutorial is based on ROS Kinetic running on Ubuntu 16.04. You will need some understanding of using Linux, specifically Ubuntu, and coding knowledge in Python.
@@ -104,7 +104,7 @@ from geometry_msgs.msg import Point
 
 def talker():
     pub = rospy.Publisher('/coords', Point, queue_size=10)
-    #pub = rospy.Publisher('coords', Point, queue_size=10) <- What would be the difference when using launch file?
+    #pub = rospy.Publisher('coords', Point, queue_size=10) # <- What would be the difference when using launch file?
     rospy.init_node('coords_publisher', anonymous=True)
     rate = rospy.Rate(10) # 10hz
     position = Point()
