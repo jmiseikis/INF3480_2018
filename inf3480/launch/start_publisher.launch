@@ -1,0 +1,5 @@
+<launch>
+  <group ns="inf3480">
+    <node pkg="inf3480" name="coords_publisher_node" type="coords_publisher.py" output="screen"/>
+  </group>
+</launch>
