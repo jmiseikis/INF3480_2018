@@ -208,6 +208,12 @@ if __name__ == '__main__':
     listener()
 ```
 
+Make it executable
+
+```
+chmod +x coords_listener.py
+```
+
 Let's test it! First launch the publisher and then `rosrun` the listener.
 
 ```
