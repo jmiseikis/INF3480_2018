@@ -76,8 +76,9 @@ and
 ```
 catkin_package(
   ...
-  CATKIN_DEPENDS message_runtime ...
-  ...)
+  CATKIN_DEPENDS message_runtime
+  ...
+  )
 ```
 
 Then uncomment the lines to enable message generation
