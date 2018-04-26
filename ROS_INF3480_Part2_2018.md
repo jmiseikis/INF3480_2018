@@ -12,8 +12,11 @@ In this part we will learn the following:
 
 ## Code from the last lecture
 
-You can clone the repository with the code from last week's lecture, so we are all at the identical starting point:
-https://github.com/jmiseikis/inf3480
+You can clone the repository with the code from last week's lecture, so we are all at the identical starting point. Clone it to your `~/catkin_ws/src` and then use `catkin_make` to compile it.
+
+```
+git clone https://github.com/jmiseikis/inf3480
+```
 
 ## Creating our own ROS message
 
