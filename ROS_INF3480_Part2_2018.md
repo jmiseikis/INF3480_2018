@@ -174,6 +174,7 @@ find_package(catkin REQUIRED COMPONENTS
   geometry_msgs
   rospy
   inf3480_msgs
+)
 ```
 
 Looks like we're done! Let's recompile the package to make sure the new dependencies are taken into consideration and launch the publisher.
