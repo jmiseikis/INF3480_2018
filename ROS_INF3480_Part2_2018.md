@@ -10,6 +10,11 @@ In this part we will learn the following:
 - RQT Tools
 - Record and play rosbag files
 
+## Code from the last lecture
+
+You can clone the repository with the code from last week's lecture, so we are all at the identical starting point:
+https://github.com/jmiseikis/inf3480
+
 ## Creating our own ROS message
 
 In some cases you want to create a custom message to meet your needs. It is a good practice to put all your custom messages in a separate package. This way, if somebody wants to use your custom message without running the main package you're using, they will not need to include the whole package, and just the one containing new message format.
