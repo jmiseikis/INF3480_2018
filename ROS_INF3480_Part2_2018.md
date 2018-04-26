@@ -159,7 +159,7 @@ roscd inf3480
 code package.xml
 ```
 
-And add the following lines
+And add the following lines to the `package.xml`
 
 ```
 <build_depend>inf3480_msgs</build_depend>
